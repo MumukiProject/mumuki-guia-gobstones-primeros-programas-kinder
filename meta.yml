@@ -1,8 +1,9 @@
 ---
-name: Primeros programas kinder
+name: Primeros programas
 locale: es
 type: practice
 beta: false
+teacher_info: ''
 language: gobstones
 id_format: "%05d"
 order: []
