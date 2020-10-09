@@ -1,6 +1,6 @@
 <gs-toolbox toolbox-url="https://gobstones.runners.mumuki.io/assets/minimal-kindergarten-toolbox.xml"></gs-toolbox>
 
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1602277874727.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1602278007753.json"></gs-attire>
 
 GIF
 
