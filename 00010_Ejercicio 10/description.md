@@ -4,4 +4,4 @@
 
 GIF
 
-> APRETÁ PLAY :arrow_forward: Y FIJATE QUÉ PASA. (default code bloque "-> -> ->")
+> APRETÁ PLAY :arrow_forward: Y FIJATE QUÉ PASA. (default code bloque "derecha derecha derecha")
