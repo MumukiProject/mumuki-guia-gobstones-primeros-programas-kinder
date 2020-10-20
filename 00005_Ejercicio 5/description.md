@@ -4,4 +4,4 @@
 
 GIF
 
-> HACÉ QUE EL TENEDOR LLEGUE A LA TORTA. (poner default code? es una nueva dirección)
+> HACÉ QUE EL TENEDOR LLEGUE A LA TORTA. (default code "uno abajo")
