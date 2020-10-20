@@ -8,4 +8,4 @@ examples:
      cell 0 0 Azul 1 
      cell 1 0 Azul 2 
      head 0 1
-   error: code_collision
+   error: boom-called
