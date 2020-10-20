@@ -2,5 +2,5 @@
 size 4 4
 cell 0 0 Rojo 1 
 cell 1 0 Azul 2 
-head NaN NaN
+head 0 0
  </gs-board>
