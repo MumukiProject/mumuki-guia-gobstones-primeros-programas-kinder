@@ -4,4 +4,4 @@
 
 GIF
 
-> ENCONTRÁ EL BLOQUE QUE ESTÁ MAL Y CAMBIALO.
+> ENCONTRÁ EL BLOQUE QUE ESTÁ MAL Y CAMBIALO.(default code "abajo abajo derecha")
