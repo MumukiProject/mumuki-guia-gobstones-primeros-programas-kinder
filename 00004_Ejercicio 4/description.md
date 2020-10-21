@@ -4,4 +4,4 @@
 
 GIF
 
-> HACÉ QUE EL CEPILLO LLEGUE AL DIENTE.. default code con solo un bloque mover <-
+> HACÉ QUE EL CEPILLO LLEGUE AL DIENTE. default code con solo un bloque mover <-
