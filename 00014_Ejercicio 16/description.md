@@ -4,4 +4,4 @@
 
 GIF
 
-> ENCOTRÁ EL BLOQUE QUE SOBRA Y SACALO. (default code "arriba arriba derecha abajo")
+> LLEVÁ EL CEPILLO AL DIENTE. PARA ESO ENCOTRÁ EL BLOQUE QUE SOBRA Y SACALO. (default code "arriba arriba derecha abajo")
