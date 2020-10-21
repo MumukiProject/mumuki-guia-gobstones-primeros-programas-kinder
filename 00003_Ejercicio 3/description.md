@@ -4,4 +4,4 @@
 
 GIF
 
-> EMBOCÁ LA PELOTA. default code con solo un bloque mover ->
+> EMBOCÁ LA PELOTA EN EL ARO. default code con solo un bloque mover ->
