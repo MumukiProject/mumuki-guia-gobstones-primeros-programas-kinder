@@ -4,4 +4,4 @@
 
 GIF
 
-> APRETÁ PLAY ▷ Y FIJATE QUÉ PASA. (default code bloque "derecha derecha")
+> APRETÁ EL BOTÓN ▷ Y FIJATE QUÉ PASA. (default code bloque "derecha derecha")
