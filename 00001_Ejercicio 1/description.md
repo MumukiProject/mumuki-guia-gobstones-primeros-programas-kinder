@@ -4,4 +4,4 @@
 
 GIF
 
-> APRETÁ PLAY ▷ Y FIJATE QUE PASA. default con bloque ->
+> APRETÁ EL BOTÓN ▷ Y FIJATE QUÉ PASA. default con bloque ->
