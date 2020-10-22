@@ -4,4 +4,4 @@
 
 GIF
 
-> LLEVÁ EL CEPILLO AL DIENTE. PARA ESO, ENCONTRÁ EL BLOQUE QUE ESTÁ MAL Y CAMBIALO.(default code "abajo abajo derecha")
+> ENCONTRÁ EL BLOQUE QUE ESTÁ MAL Y CAMBIALO PARA LLEVAR EL CEPILLO AL DIENTE. (default code "abajo abajo derecha")
