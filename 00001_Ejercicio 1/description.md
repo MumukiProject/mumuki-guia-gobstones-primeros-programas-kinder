@@ -1,5 +1,5 @@
 <div class="mu-kindergarten-context-image-slides">
-  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kids/master/assets/tutorial2_1.svg" alt="First slide" class="active">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/tutorial2_1_1604432535918.svg" alt="First slide" class="active">
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_basquet_1604428143352.svg" alt="puzzle_1597262742667.gif" width="auto" height="auto">
 </div>
 
