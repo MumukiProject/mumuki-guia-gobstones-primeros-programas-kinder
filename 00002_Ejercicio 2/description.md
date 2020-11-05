@@ -8,4 +8,4 @@
 
 
 
-> METÉ LA PELOTA EN EL ARO.
+> METÉ LA PELOTA EN EL ARO. **falta tutorial de arrastrar bloque del toolbox al program**
