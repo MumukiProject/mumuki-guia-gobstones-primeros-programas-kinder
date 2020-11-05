@@ -5,6 +5,6 @@
 
 <gs-toolbox toolbox-url="https://gobstones.runners.mumuki.io/assets/minimal-kindergarten-toolbox.xml"></gs-toolbox>
 
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1603206898114.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604611106524.json"></gs-attire>
 
 > ENCONTRÁ EL BLOQUE QUE SOBRA Y SACALO PARA LLEVAR EL CEPILLO AL DIENTE. **falta tutorial de sacar un bloque del programa**
