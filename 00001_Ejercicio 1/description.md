@@ -8,5 +8,4 @@
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1603206432567.json"></gs-attire>
 
 
-> APRETÁ EL BOTÓN ▷ Y FIJATE QUÉ PASA. default con bloque ->
-
+> APRETÁ EL BOTÓN ▷ Y FIJATE QUÉ PASA.
