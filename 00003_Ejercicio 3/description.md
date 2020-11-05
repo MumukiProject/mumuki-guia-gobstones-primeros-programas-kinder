@@ -1,7 +1,11 @@
+<div class="mu-kindergarten-context-image-slides">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_basquet_1604428143352.svg" alt="La pelota va al aro" class="active">
+</div>
+
 <gs-toolbox toolbox-url="https://gobstones.runners.mumuki.io/assets/minimal-kindergarten-toolbox.xml"></gs-toolbox>
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1603206432567.json"></gs-attire>
 
 GIF
 
-> METÉ LA PELOTA EN EL ARO. default code con solo un bloque mover ->
+> METÉ LA PELOTA EN EL ARO. **falta el tutorial de poner un bloque abajo del otro**
