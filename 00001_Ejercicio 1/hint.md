@@ -1,1 +1,1 @@
-Para volver a leer la consigna, apretá el ojito. :eye:
+PARA VOLVER A VER QUÉ HAY QUE HACER, APRETÁ EN EL OJITO. :eye:
