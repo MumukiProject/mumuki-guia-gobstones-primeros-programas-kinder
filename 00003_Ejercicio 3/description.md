@@ -9,4 +9,4 @@
 
 GIF
 
-> METÉ LA PELOTA EN EL ARO. **falta el tutorial de poner un bloque abajo del otro**
+> METÉ LA PELOTA EN EL ARO.
