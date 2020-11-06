@@ -7,4 +7,4 @@
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604611106524.json"></gs-attire>
 
-> ENCONTRÁ EL BLOQUE QUE ESTÁ MAL Y CAMBIALO PARA LLEVAR EL CEPILLO AL DIENTE. 
+> ENCONTRÁ LA FLECHA QUE ESTÁ MAL Y CAMBIALA PARA LLEVAR EL CEPILLO AL DIENTE. 
