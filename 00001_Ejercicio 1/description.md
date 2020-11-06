@@ -7,4 +7,4 @@
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604610873423.json"></gs-attire>
 
-> APRETÁ EL BOTÓN ▷ <iron-icon id='icon' class='style-scope paper-fab x-scope iron-icon-0'><svg viewBox='0 0 24 24' preserveAspectRatio='xMidYMid meet' focusable='false' class='style-scope iron-icon' style='pointer-events: none; display: block; width: 100%; height: 100%;'><g class='style-scope iron-icon'><path d='M8 5v14l11-7z' class='style-scope iron-icon'></path></g></svg></iron-icon> Y FIJATE QUÉ PASA.
+> APRETÁ EL BOTÓN ▷ :arrow_forward: Y FIJATE QUÉ PASA.
