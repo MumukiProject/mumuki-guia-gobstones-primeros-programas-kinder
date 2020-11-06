@@ -1,5 +1,5 @@
 <div class="mu-kindergarten-context-image-slides">
-  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_dientes2_1604602744600.svg" alt="El cepillo va al diente" class="active">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/tutorial2_16_1604681088377.svg" alt="Sacar el bloque incorrecto del programa" class="active">
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_dientes2_1604602744600.svg" alt="El cepillo va al diente">
 </div>
 
