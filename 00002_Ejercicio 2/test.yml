@@ -4,6 +4,7 @@ examples:
  - initial_board: |
      GBB/1.0
      size 2 1
+     CELL 0 0 Rojo 1
      cell 1 0 Azul 1
      head 0 0
    final_board: |
