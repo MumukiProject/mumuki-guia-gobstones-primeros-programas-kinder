@@ -1,5 +1,5 @@
 <div class="mu-kindergarten-context-image-slides">
-  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/tutorial2_2_1604680746494.svg" alt="Arrastrar un bloque al programa" class="active">
+  <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/tutorial2_2_1604680746494.svg" alt="Arrastrar un bloque al programa y ejecutarlo" class="active">
   <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/escena_basquet_1604428143352.svg" alt="La pelota va al aro">
 </div>
 
