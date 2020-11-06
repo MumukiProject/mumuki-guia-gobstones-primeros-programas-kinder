@@ -1,1 +1,1 @@
-TODO
+Llegó el momento de dar tus primeros pasos en el mundo de la programación. Conocé a quienes te acompañarán en esta aventura. ¡A programar!
