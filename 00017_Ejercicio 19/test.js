@@ -1,1 +1,0 @@
-Muzzle.basic(3, 4, 'https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/rompecabezas_final2-01_1604609767879.svg')
