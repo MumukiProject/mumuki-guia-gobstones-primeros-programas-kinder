@@ -7,5 +7,5 @@
 
 <gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/attires/config_1604610873423.json"></gs-attire>
 
-> FIJATE QUÉ PASA AL APRETAR EL BOTÓN DE PLAY.<img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/play-01_1606927778900.svg" alt="play-01_1606927778900.svg" width="auto" height="auto">
+> FIJATE QUÉ PASA AL APRETAR EL BOTÓN DE PLAY. <img src="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-primeros-programas-kinder/master/assets/play-01_1606927778900.svg" alt="play-01_1606927778900.svg" width="auto" height="auto">
 
